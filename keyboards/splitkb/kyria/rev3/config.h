@@ -16,6 +16,8 @@
 
 #pragma once
 
+#define FORCE_NKRO
+
 // `SPLIT_HAND_PIN` can currently be defined in `info.json`,
 // but can't yet be given a value
 #define SPLIT_HAND_PIN B5
