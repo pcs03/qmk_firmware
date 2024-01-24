@@ -17,6 +17,7 @@
 #pragma once
 
 #define FORCE_NKRO
+#define USB_MAX_POWER_CONSUMPTION 100
 
 // `SPLIT_HAND_PIN` can currently be defined in `info.json`,
 // but can't yet be given a value
